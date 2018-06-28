@@ -1,0 +1,5 @@
+import com.cxy.demo.janinoDemo.pojo.SimpleKV;
+
+public static SimpleKV test(){
+	return new SimpleKV("key", "this is a simple value");
+}
